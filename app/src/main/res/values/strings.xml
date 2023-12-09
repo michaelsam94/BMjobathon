@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BMJobathon</string>
+
+
+    <string name="from">From</string>
+    <string name="to">To</string>
 </resources>
